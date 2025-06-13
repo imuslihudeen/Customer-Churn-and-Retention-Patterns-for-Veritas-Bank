@@ -8,7 +8,7 @@ Identify key characteristics of customers who churned.
 Compare churn behavior across UK, Germany, and France.
 Segment customers based on churn risk and usage.
 Build interactive dashboards to aid strategic decisions.
-🛠️ Technology Stack SQL Server – Data storage, queries, and transformations Power BI – Data visualization and dashboarding
+🛠️ Technology Stack SQL Server – Data storage, queries, and transformations Power BI – Data visualisation and dashboarding
 
 📂 Dataset Description The dataset includes information on:
 
